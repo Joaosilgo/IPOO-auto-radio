@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=frequencia
+comment0.target=Canal(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CanalRadio\r\n
+comment1.params=nome
+comment1.target=void\ setNomeCanal(java.lang.String)
+comment1.text=\r\n\ setNomeCanal()-\ Este\ metodo\ d\u00E1\ um\ nome\ ao\ canal\ criado,\r\n\ fazendo\ as\ valida\u00E7\u00F5es\ necess\u00E1rias.\r\n\ @param\ nome\ tipo\ String\ ,\ nome\ dado\ ao\ canal\r\n
+comment2.params=
+comment2.target=Banda\ getBanda()
+comment2.text=\r\n\ getBanda()-Representa\ a\ banda\ selecionada\ \r\n\ @return\ banda\r\n
+comment3.params=
+comment3.target=double\ getFrequencia()
+comment3.text=\r\n\ getFrequencia()-\ Representa\ a\ frequencia\ selecionado\r\n\ @return\ frequencia\r\n
+comment4.params=frequencia
+comment4.target=void\ setFrequencia(double)
+comment4.text=\r\n\ setFrequencia()-Modifica\ a\ frequencia\ e\ assim\ um\ determinado\ tipo\ de\ banda\r\n\ consequente\r\n\ @param\ frequencia\ tipo\ double\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString()-Este\ metodo\ retorna\ a\ informa\u00E7\u00E3o\ do\ canal\ sendo\ este\ \r\n\ a\ frequ\u00EAncia\ e\ a\ determinada\ banda\ para\ essa\ frequ\u00EAncia.\r\n\ @return\ informacao\r\n
+numComments=6
